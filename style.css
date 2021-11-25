@@ -1,0 +1,27 @@
+.light-pink {
+    background-color: #FDFAEF;
+    height: 50px;
+    width: 100%;
+}
+
+.light-white {
+    background-color: #F8F8F8;
+    height: 50px;
+    width: 100%;
+}
+
+.bright-yellow {
+    background-color: #fcd219;
+    height: 50px;
+    width: 100%;
+}
+
+.bright-blue {
+    background-color: #4a32aa;
+    height: 50px;
+    width: 100%;
+}
+
+.content-border {
+    border-bottom: 15px solid #fff;
+}
