@@ -1,3 +1,9 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;;
+}
 .light-pink {
     background-color: #FDFAEF;
     height: 50px;
